@@ -1,0 +1,18 @@
+// Assembly NaaBAdmin_iSniPe, Version 1
+using System.Diagnostics;
+//[assembly: System.Reflection.AssemblyAlgorithmId()]
+//[assembly: System.Reflection.AssemblyCopyright("Copyright ©  2016")]
+//[assembly: System.Reflection.AssemblyConfiguration("")]
+//[assembly: System.Reflection.AssemblyDescription("NaaBAdmin_iSniPe - An Advanced Server Administration Tool For InfinityScript MW3 Servers")]
+//[assembly: System.Reflection.AssemblyProduct("NaaBAdmin_iSniPe by MH11")]
+//[assembly: System.Runtime.InteropServices.Guid("9e9bfcdf-f1b9-421f-9715-67d51a7d4fff")]
+//[assembly: System.Runtime.InteropServices.ComVisible(false)]
+//[assembly: System.Reflection.AssemblyTrademark("naabbax.ir")]
+//[assembly: System.Reflection.AssemblyFileVersion("3")]
+[assembly: System.Runtime.CompilerServices.CompilationRelaxations(8)]
+//[assembly: System.Runtime.Versioning.TargetFramework(".NETFramework,Version=v4.0", FrameworkDisplayName=".NET Framework 4")]
+[assembly: System.Diagnostics.Debuggable(DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints)]
+//[assembly: System.Reflection.AssemblyTitle("NaaBAdmin_iSniPe")]
+//[assembly: System.Reflection.AssemblyCompany("NaaB Bax")]
+[assembly: System.Runtime.CompilerServices.RuntimeCompatibility(WrapNonExceptionThrows = true)]
+//[assembly: System.Security.Permissions.SecurityPermission(System.Security.Permissions.SecurityAction.RequestMinimum, SkipVerification=true)]
