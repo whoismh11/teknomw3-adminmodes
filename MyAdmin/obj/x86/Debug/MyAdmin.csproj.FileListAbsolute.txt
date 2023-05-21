@@ -1,0 +1,5 @@
+G:\MH11's Works\Sources\MyAdmin\Source\bin\Debug\MyAdmin.dll
+G:\MH11's Works\Sources\MyAdmin\Source\bin\Debug\MyAdmin.pdb
+G:\MH11's Works\Sources\MyAdmin\Source\obj\x86\Debug\MyAdmin.csprojResolveAssemblyReference.cache
+G:\MH11's Works\Sources\MyAdmin\Source\obj\x86\Debug\MyAdmin.dll
+G:\MH11's Works\Sources\MyAdmin\Source\obj\x86\Debug\MyAdmin.pdb

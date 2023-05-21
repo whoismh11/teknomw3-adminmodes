@@ -1,0 +1,4 @@
+C:\Users\Korisnik\Desktop\New folder\NaaBAdmin v4\Source\bin\Debug\NaaBAdmin.dll
+C:\Users\Korisnik\Desktop\New folder\NaaBAdmin v4\Source\bin\Debug\NaaBAdmin.pdb
+C:\Users\Korisnik\Desktop\New folder\NaaBAdmin v4\Source\obj\x86\Debug\NaaBAdmin.dll
+C:\Users\Korisnik\Desktop\New folder\NaaBAdmin v4\Source\obj\x86\Debug\NaaBAdmin.pdb

@@ -1,0 +1,5 @@
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin v3\bin\Debug\NaaBAdmin.dll
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin v3\bin\Debug\NaaBAdmin.pdb
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin v3\bin\Debug\InfinityScript.dll
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin v3\obj\Debug\NaaBAdmin.dll
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin v3\obj\Debug\NaaBAdmin.pdb

@@ -1,0 +1,8 @@
+<project outputDir="G:\MH11's Works\MW3\Scripts\Sources\MyAdmin\Source\bin\Release\Confused" baseDir="G:\MH11's Works\MW3\Scripts\Sources\MyAdmin\Source\bin\Release" xmlns="http://confuser.codeplex.com">
+  <module path="MyAdmin.dll">
+    <rule pattern="true" inherit="false">
+      <protection id="anti ildasm" />
+      <protection id="anti tamper" />
+    </rule>
+  </module>
+</project>

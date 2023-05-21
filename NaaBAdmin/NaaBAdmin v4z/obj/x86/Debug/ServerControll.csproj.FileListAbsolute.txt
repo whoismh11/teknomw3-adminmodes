@@ -1,0 +1,5 @@
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\SC_source_9.0.0.0\bin\Debug\ServerControll.dll
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\SC_source_9.0.0.0\bin\Debug\ServerControll.pdb
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\SC_source_9.0.0.0\bin\Debug\InfinityScript.dll
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\SC_source_9.0.0.0\obj\x86\Debug\ServerControll.dll
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\SC_source_9.0.0.0\obj\x86\Debug\ServerControll.pdb

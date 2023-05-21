@@ -1,0 +1,10 @@
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\SC_source_9.0.0.0\bin\Release\ServerControll.dll
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\SC_source_9.0.0.0\bin\Release\ServerControll.pdb
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\SC_source_9.0.0.0\bin\Release\InfinityScript.dll
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\SC_source_9.0.0.0\obj\x86\Release\ServerControll.dll
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\SC_source_9.0.0.0\obj\x86\Release\ServerControll.pdb
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\ServerControll_9.0.0.0_SourceFixed\SC_source_9.0.0.0\bin\Release\ServerControll.dll
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\ServerControll_9.0.0.0_SourceFixed\SC_source_9.0.0.0\bin\Release\ServerControll.pdb
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\ServerControll_9.0.0.0_SourceFixed\SC_source_9.0.0.0\obj\x86\Release\ServerControll.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\ServerControll_9.0.0.0_SourceFixed\SC_source_9.0.0.0\obj\x86\Release\ServerControll.dll
+C:\Users\Korisnik\Desktop\SC 9.0.0.0\ServerControll_9.0.0.0_SourceFixed\SC_source_9.0.0.0\obj\x86\Release\ServerControll.pdb

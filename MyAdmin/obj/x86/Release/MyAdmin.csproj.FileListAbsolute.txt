@@ -1,0 +1,11 @@
+G:\MH11's Works\Sources\MyAdmin\Source\bin\Release\MyAdmin.dll
+G:\MH11's Works\Sources\MyAdmin\Source\bin\Release\MyAdmin.pdb
+G:\MH11's Works\Sources\MyAdmin\Source\obj\x86\Release\MyAdmin.csprojResolveAssemblyReference.cache
+G:\MH11's Works\Sources\MyAdmin\Source\obj\x86\Release\MyAdmin.dll
+G:\MH11's Works\Sources\MyAdmin\Source\obj\x86\Release\MyAdmin.pdb
+G:\MH11's Works\MW3\Scripts\Sources\MyAdmin\Source\bin\Release\MyAdmin.dll
+G:\MH11's Works\MW3\Scripts\Sources\MyAdmin\Source\bin\Release\MyAdmin.pdb
+G:\MH11's Works\MW3\Scripts\Sources\MyAdmin\Source\bin\Release\InfinityScript.dll
+G:\MH11's Works\MW3\Scripts\Sources\MyAdmin\Source\obj\x86\Release\MyAdmin.csprojResolveAssemblyReference.cache
+G:\MH11's Works\MW3\Scripts\Sources\MyAdmin\Source\obj\x86\Release\MyAdmin.dll
+G:\MH11's Works\MW3\Scripts\Sources\MyAdmin\Source\obj\x86\Release\MyAdmin.pdb

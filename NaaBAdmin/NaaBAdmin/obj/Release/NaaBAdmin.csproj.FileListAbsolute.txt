@@ -1,0 +1,12 @@
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin v3\bin\Release\NaaBAdmin.dll
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin v3\bin\Release\NaaBAdmin.pdb
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin v3\bin\Release\InfinityScript.dll
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin v3\obj\Release\NaaBAdmin.dll
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin v3\obj\Release\NaaBAdmin.pdb
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin v3\obj\Release\NaaBAdmin.csprojResolveAssemblyReference.cache
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin\bin\Release\NaaBAdmin.dll
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin\bin\Release\NaaBAdmin.pdb
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin\bin\Release\InfinityScript.dll
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin\obj\Release\NaaBAdmin.csprojResolveAssemblyReference.cache
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin\obj\Release\NaaBAdmin.dll
+G:\MH11's Works\MW3\Scripts\Sources\NaaBAdmin\obj\Release\NaaBAdmin.pdb

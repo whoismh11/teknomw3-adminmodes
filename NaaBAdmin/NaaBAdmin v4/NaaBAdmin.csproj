@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.377</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E06C3C07-069B-48B7-9390-821279E866F0}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <AssemblyName>NaaBAdmin</AssemblyName>
+    <OutputType>Library</OutputType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>NaaBAdmin</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Compile Include="ServerControll\Utilities.cs" />
+    <Reference Include="InfinityScript">
+      <HintPath>..\..\1.03\SAT\bin\Release\InfinityScript.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="ServerControll\NaaBAdmin.cs" />
+    <Compile Include="ServerControll\NoKnife.cs" />
+    <Compile Include="ServerControll\ServerControll.cs" />
+    <Compile Include="ServerControll\IniParser.cs" />
+    <Compile Include="ServerControll\MemClass.cs" />
+    <Compile Include="Country.cs" />
+    <Compile Include="DatabaseInfo.cs" />
+    <Compile Include="Location.cs" />
+    <Compile Include="LookupService.cs" />
+    <Compile Include="Region.cs" />
+    <Compile Include="RegionName.cs" />
+    <Compile Include="ns0\Class74.cs" />
+    <Compile Include="ns1\Class75.cs" />
+    <Compile Include="ns2\Attribute0.cs" />
+    <Compile Include="ns3\Attribute1.cs" />
+    <Compile Include="ns4\Attribute2.cs" />
+    <Compile Include="ns5\Delegate0.cs" />
+    <Compile Include="ns2\Class76.cs" />
+    <Compile Include="ns2\Class77.cs" />
+    <Compile Include="ns3\Class78.cs" />
+    <Compile Include="ns6\Class79.cs" />
+    <Compile Include="ns7\Attribute3.cs" />
+    <Compile Include="ns0\Attribute4.cs" />
+    <Compile Include="ns1\Class80.cs" />
+    <Compile Include="ns1\Class81.cs" />
+    <Compile Include="ns0\Class82.cs" />
+    <Compile Include="ns8\Class89.cs" />
+  </ItemGroup>
+</Project>

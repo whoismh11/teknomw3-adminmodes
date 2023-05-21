@@ -1,0 +1,14 @@
+G:\MH11's Works\Sources\NaaBAdmin v4\Source\bin\Release\NaaBAdmin.dll
+G:\MH11's Works\Sources\NaaBAdmin v4\Source\bin\Release\NaaBAdmin.pdb
+G:\MH11's Works\Sources\NaaBAdmin v4\Source\obj\x86\Release\NaaBAdmin.csprojResolveAssemblyReference.cache
+G:\MH11's Works\Sources\NaaBAdmin v4\Source\obj\x86\Release\NaaBAdmin.dll
+G:\MH11's Works\Sources\NaaBAdmin v4\Source\obj\x86\Release\NaaBAdmin.pdb
+C:\Users\Korisnik\Desktop\New folder\NaaBAdmin v4\Source\bin\Release\NaaBAdmin.dll
+C:\Users\Korisnik\Desktop\New folder\NaaBAdmin v4\Source\bin\Release\NaaBAdmin.pdb
+C:\Users\Korisnik\Desktop\New folder\NaaBAdmin v4\Source\obj\x86\Release\NaaBAdmin.dll
+C:\Users\Korisnik\Desktop\New folder\NaaBAdmin v4\Source\obj\x86\Release\NaaBAdmin.pdb
+G:\MH11's Works\MW3\Scripts\NaaBAdmin v4\Source\bin\Release\NaaBAdmin.dll
+G:\MH11's Works\MW3\Scripts\NaaBAdmin v4\Source\bin\Release\NaaBAdmin.pdb
+G:\MH11's Works\MW3\Scripts\NaaBAdmin v4\Source\obj\x86\Release\NaaBAdmin.csprojResolveAssemblyReference.cache
+G:\MH11's Works\MW3\Scripts\NaaBAdmin v4\Source\obj\x86\Release\NaaBAdmin.dll
+G:\MH11's Works\MW3\Scripts\NaaBAdmin v4\Source\obj\x86\Release\NaaBAdmin.pdb
