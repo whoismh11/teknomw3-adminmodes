@@ -20,7 +20,7 @@ An advanced server administration tool for InfinityScript MW3 servers.
 ## Other info
 
 ### MyAdmin commands
-#### User commands:
+#### User commands
 - !exitlist
 - !warnlist
 - !reportlist
@@ -55,7 +55,7 @@ An advanced server administration tool for InfinityScript MW3 servers.
 - !fps
 - !drunk
 
-#### Friend commands (+ User commands):
+#### Friend commands (+ User commands)
 - !mod
 - !k
 - !kick
@@ -76,7 +76,7 @@ An advanced server administration tool for InfinityScript MW3 servers.
 - !ateam
 - !team
 
-#### Member commands (+ User, Friend commands):
+#### Member commands (+ User, Friend commands)
 - !status
 - !alias
 - !scream
@@ -93,7 +93,7 @@ An advanced server administration tool for InfinityScript MW3 servers.
 - !tempbanexit
 - !tbe
 
-#### Moderator commands (+ User, Friend, Member commands):
+#### Moderator commands (+ User, Friend, Member commands)
 - !maprotate
 - !listall
 - !setpw
@@ -123,7 +123,7 @@ An advanced server administration tool for InfinityScript MW3 servers.
 - !kickall
 - !ka
 
-#### Owner commands (+ User, Friend, Member, Moderator commands):
+#### Owner commands (+ User, Friend, Member, Moderator commands)
 - !resetadmin
 - !add
 - !del
