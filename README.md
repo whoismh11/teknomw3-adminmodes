@@ -1,5 +1,5 @@
 # TeknoMW3 Adminmodes
-[TeknoGods](https://teknogods.com) Call of Duty: Modern Warfare 3 - MyAdmin &amp; NaaBAdmin &amp; NaaBAdminiSnipe advanced admin-modes
+[TeknoGods](https://teknogods.com) Call of Duty: Modern Warfare 3 - MyAdmin &amp; NaaBAdmin &amp; NaaBAdminiSnipe advanced admin-modes.
 
 An advanced server administration tool for InfinityScript MW3 servers.
 
