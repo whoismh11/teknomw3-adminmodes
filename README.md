@@ -21,125 +21,125 @@ An advanced server administration tool for InfinityScript MW3 servers.
 
 ### MyAdmin commands
 #### User commands
-- !exitlist
-- !warnlist
-- !reportlist
-- !banlist
-- !listbadwords
-- !list
-- !tempbanlist
-- !info
-- !pm
-- !login
-- !access
-- !afk
-- !suicide
-- !admins
-- !time
-- !rules
-- !ver
-- !votemap
-- !votemod
-- !votekick
-- !voteban
-- !y
-- !n
-- !fov
-- !iamgod
-- !report
-- !nextmap
-- !register
-- !xlrstats
-- !xlrtopstats
-- !help
-- !fps
-- !drunk
+- `!exitlist`
+- `!warnlist`
+- `!reportlist`
+- `!banlist`
+- `!listbadwords`
+- `!list`
+- `!tempbanlist`
+- `!info`
+- `!pm`
+- `!login`
+- `!access`
+- `!afk`
+- `!suicide`
+- `!admins`
+- `!time`
+- `!rules`
+- `!ver`
+- `!votemap`
+- `!votemod`
+- `!votekick`
+- `!voteban`
+- `!y`
+- `!n`
+- `!fov`
+- `!iamgod`
+- `!report`
+- `!nextmap`
+- `!register`
+- `!xlrstats`
+- `!xlrtopstats`
+- `!help`
+- `!fps`
+- `!drunk`
 
 #### Friend commands (+ User commands)
-- !mod
-- !k
-- !kick
-- !fast
-- !map
-- !votecancel
-- !mute
-- !spect
-- !unmute
-- !setafk
-- !w
-- !warn
-- !uw
-- !unwarn
-- !unreport
-- !balance
-- !mteam
-- !ateam
-- !team
+- `!mod`
+- `!k`
+- `!kick`
+- `!fast`
+- `!map`
+- `!votecancel`
+- `!mute`
+- `!spect`
+- `!unmute`
+- `!setafk`
+- `!w`
+- `!warn`
+- `!uw`
+- `!unwarn`
+- `!unreport`
+- `!balance`
+- `!mteam`
+- `!ateam`
+- `!team`
 
 #### Member commands (+ User, Friend commands)
-- !status
-- !alias
-- !scream
-- !spam
-- !tempban
-- !tb
-- !resetfog
-- !restart
-- !untempban
-- !utb
-- !setnextmap
-- !warnclear
-- !delalias
-- !tempbanexit
-- !tbe
+- `!status`
+- `!alias`
+- `!scream`
+- `!spam`
+- `!tempban`
+- `!tb`
+- `!resetfog`
+- `!restart`
+- `!untempban`
+- `!utb`
+- `!setnextmap`
+- `!warnclear`
+- `!delalias`
+- `!tempbanexit`
+- `!tbe`
 
 #### Moderator commands (+ User, Friend, Member commands)
-- !maprotate
-- !listall
-- !setpw
-- !password
-- !editpass
-- !showpass
-- !statuspass
-- !night
-- !ban
-- !b
-- !unban
-- !ub
-- !ban2
-- !bot
-- !kb
-- !loadbots
-- !b2
-- !kill
-- !voting
-- !chat
-- !changeteam
-- !endround
-- !fire
-- !eb
-- !banexit
-- !be
-- !kickall
-- !ka
+- `!maprotate`
+- `!listall`
+- `!setpw`
+- `!password`
+- `!editpass`
+- `!showpass`
+- `!statuspass`
+- `!night`
+- `!ban`
+- `!b`
+- `!unban`
+- `!ub`
+- `!ban2`
+- `!bot`
+- `!kb`
+- `!loadbots`
+- `!b2`
+- `!kill`
+- `!voting`
+- `!chat`
+- `!changeteam`
+- `!endround`
+- `!fire`
+- `!eb`
+- `!banexit`
+- `!be`
+- `!kickall`
+- `!ka`
 
 #### Owner commands (+ User, Friend, Member, Moderator commands)
-- !resetadmin
-- !add
-- !del
-- !downgrade
-- !setclient
-- !load
-- !unload
-- !j
-- !s
-- !g
-- !reboot
-- !addbadwords
-- !delbadwords
-- !addadv
-- !addrules
-- !svname
+- `!resetadmin`
+- `!add`
+- `!del`
+- `!downgrade`
+- `!setclient`
+- `!load`
+- `!unload`
+- `!j`
+- `!s`
+- `!g`
+- `!reboot`
+- `!addbadwords`
+- `!delbadwords`
+- `!addadv`
+- `!addrules`
+- `!svname`
 
 ### How to get Owner rank
 Join your server and use this command: `!iamgod`
@@ -154,29 +154,29 @@ Use the first 3 letters for PlayerName and MapName.
 - Example 2: Change the map to Seatown: `!map sea`
 
 ### MyAdmin ranks
-- Level 9 : Owner
-- Level 8 : Leader
-- Level 7 : Moderator
-- Level 6 : ModeratorAssistant
-- Level 5 : Captain
-- Level 4 : ProMember
-- Level 3 : Member
-- Level 2 : Vip
-- Level 1 : Friend
+- Level 9: Owner
+- Level 8: Leader
+- Level 7: Moderator
+- Level 6: ModeratorAssistant
+- Level 5: Captain
+- Level 4: ProMember
+- Level 3: Member
+- Level 2: Vip
+- Level 1: Friend
 
 ### Colors
-- ^1 - Red
-- ^2 - Green
-- ^3 - Yellow
-- ^4 - Blue
-- ^5 - Cyan
-- ^6 - Pink
-- ^7 - White
-- ^8 - Dark green
-- ^9 - Dark red
-- ^0 - Black
-- ^: - Dark yellow
-- ^; - Dark blue
+- `^1` - Red
+- `^2` - Green
+- `^3` - Yellow
+- `^4` - Blue
+- `^5` - Cyan
+- `^6` - Pink
+- `^7` - White
+- `^8` - Dark green
+- `^9` - Dark red
+- `^0` - Black
+- `^:` - Dark yellow
+- `^;` - Dark blue
 
 ## Contribution
 - [Discord](https://discord.gg/2JjvhAk)
